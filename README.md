@@ -1,1 +1,1 @@
-# SoFG-Mods
+# Shadows of Forbbiden Gods Modding
